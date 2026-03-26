@@ -1139,3 +1139,374 @@ Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
 Clean up handdrawn wireframes/sketches with Nano Banana (WIP)
 
 
+
+---
+
+## Recently Added
+
+New entries added to the index.
+
+### Evaluations & Benchmarks
+
+### **Gemini 3.1 Lite Audio Understanding Eval**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_31_Lite_Audio_Understanding_Eval-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-31-Lite-Audio-Understanding-Eval)
+
+Voice recording for testing with TTS/cloning
+
+### **LLM Evaluation Prompts**
+[![Repository](https://img.shields.io/badge/Repository-LLM_Evaluation_Prompts-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Evaluation-Prompts)
+
+Prompts for running controlled experiments comparing and benchmarking different LLMs
+
+### **LLM Experiment Notebook**
+[![Repository](https://img.shields.io/badge/Repository-LLM_Experiment_Notebook-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Experiment-Notebook)
+
+Experiments in evaluating various prompting strategies and LLM performance
+
+### **LLM Max Token Length 0225**
+[![Repository](https://img.shields.io/badge/Repository-LLM_Max_Token_Length_0225-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Max-Token-Length-0225)
+
+A plot showing the evolution of the max output token length by major LLMs, Feb 2025
+
+### **LLM Wars**
+[![Repository](https://img.shields.io/badge/Repository-LLM_Wars-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Wars)
+
+(Experiment) LLMs argue "who's better" in a podcast
+
+### **Local ASR STT Benchmark**
+[![Repository](https://img.shields.io/badge/Repository-Local_ASR_STT_Benchmark-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-ASR-STT-Benchmark)
+
+Quick evaluation to find the best STT model in Speech Note (Ubuntu)
+
+### **Long Form Audio Eval**
+[![Repository](https://img.shields.io/badge/Repository-Long_Form_Audio_Eval-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Long-Form-Audio-Eval)
+
+Single shot STT benchmark for long form audio
+
+### **Transcription Cleanup Eval 1225**
+[![Repository](https://img.shields.io/badge/Repository-Transcription_Cleanup_Eval_1225-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225)
+
+Evaluating various cloud audio understanding models on the transcribe and cleanup workflow
+
+### **Whisper Fine-Tune Accuracy Eval**
+[![Repository](https://img.shields.io/badge/Repository-Whisper_Fine_Tune_Accuracy_Eval-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval)
+
+Comparing Whisper fine-tunes versus stock Whisper on local inference
+
+### **Whisper WPM Background Noise Eval**
+[![Repository](https://img.shields.io/badge/Repository-Whisper_WPM_Background_Noise_Eval-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval)
+
+Quick eval: how much does speaking pace affect WER/accuracy in ASR?
+
+### Experiments
+
+### **Better Web Design Inc**
+[![Repository](https://img.shields.io/badge/Repository-Better_Web_Design_Inc-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Better-Web-Design-Inc)
+
+Agentic web design crew specialising in offbeat designs and client dissatisfaction!
+
+### **Natural Language Relationship Definition**
+[![Repository](https://img.shields.io/badge/Repository-Natural_Language_Relationship_Definition-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Natural-Language-Relationship-Definition)
+
+Experiment: trying to create a database schema using natural language
+
+### **Two AIs Talk**
+[![Repository](https://img.shields.io/badge/Repository-Two_AIs_Talk-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Two-AIs-Talk)
+
+Experiment: two AI agents, each one thinks the other is a liar
+
+### **Weird AI Bots**
+[![Repository](https://img.shields.io/badge/Repository-Weird_AI_Bots-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Weird-AI-Bots)
+
+Some configurations for offbeat AI roleplay characters just for fun
+
+### Multi-Agent & Panel Systems
+
+### **AI Agent Virtual Panel Configs**
+[![Repository](https://img.shields.io/badge/Repository-AI_Agent_Virtual_Panel_Configs-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-Virtual-Panel-Configs)
+
+Sets of "panels" for testing virtual AI persona voting bodies and thinking groups
+
+### **Claude AI Conference**
+[![Repository](https://img.shields.io/badge/Repository-Claude_AI_Conference-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-AI-Conference)
+
+AI experiment: panel + TTS, mini conference/symposium
+
+### **Panel Of Claude**
+[![Repository](https://img.shields.io/badge/Repository-Panel_Of_Claude-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Panel-Of-Claude)
+
+Exploratory Claude model: multiple agents mimicking a panel debate
+
+### **Peace In The Middle East**
+[![Repository](https://img.shields.io/badge/Repository-Peace_In_The_Middle_East-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Peace-In-The-Middle-East)
+
+Multiagentic geopolitical simulation ideating problem-solving in the Middle East
+
+### **Claude Change My View**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Change_My_View-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Change-My-View)
+
+CMV with AI (pattern/template)
+
+### **Claude Decision Evaluation Framework**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Decision_Evaluation_Framework-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)
+
+Claude Code model for decision evaluation
+
+### **Geopol Forecaster POC**
+[![Repository](https://img.shields.io/badge/Repository-Geopol_Forecaster_POC-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Geopol-Forecaster-POC)
+
+Experimental prediction analysis for real world events
+
+### POCs & Patterns
+
+### **Agent Junction**
+[![Repository](https://img.shields.io/badge/Repository-Agent_Junction-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Junction)
+
+Ephemeral agent-to-agent communication relay for agentic CLIs (localhost or intra-LAN). MCP.
+
+### **Agentic Context Development Interview Demo**
+[![Repository](https://img.shields.io/badge/Repository-Agentic_Context_Development_Interview_Demo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo)
+
+Demonstration of chained LLM agent workflow for generating personal contextual data
+
+### **AI Interview Workflow V2**
+[![Repository](https://img.shields.io/badge/Repository-AI_Interview_Workflow_V2-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Interview-Workflow-V2)
+
+AI interview workflow, version 2
+
+### **AI Resume**
+[![Repository](https://img.shields.io/badge/Repository-AI_Resume-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Resume)
+
+Notes/test for creating a resume/CV specifically intended for AI agents
+
+### **All About MCP**
+[![Repository](https://img.shields.io/badge/Repository-All_About_MCP-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/All-About-MCP)
+
+Example repository for agentic AI generated long form report generation
+
+### **Claude Agent Picker Pattern**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Agent_Picker_Pattern-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern)
+
+Pattern/idea for the "too many subagents" problem
+
+### **Claude Deep Research Model**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Deep_Research_Model-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Deep-Research-Model)
+
+Repo model for an iterative deep research model with voice pipeline
+
+### **Claude Georeaction Researcher**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Georeaction_Researcher-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Georeaction-Researcher)
+
+Claude template for analysing global sentiment/reaction to a geopolitical issue
+
+### **Claude Space Self-ideator**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Space_Self_ideator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Space-Self-ideator)
+
+Claude Code ideating ideas for new applications for Claude Code workspaces
+
+### **My LLM Context Repo Public**
+[![Repository](https://img.shields.io/badge/Repository-My_LLM_Context_Repo_Public-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/My-LLM-Context-Repo-Public)
+
+A context repo for experimenting with LLM models (public version)
+
+### **System Prompt Factory**
+[![Repository](https://img.shields.io/badge/Repository-System_Prompt_Factory-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/System-Prompt-Factory)
+
+A system prompt generation UI combining model and user characteristics
+
+### **No Wheel Inventions**
+[![Repository](https://img.shields.io/badge/Repository-No_Wheel_Inventions-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/No-Wheel-Inventions)
+
+Slash command for Claude to encourage avoiding reinventing the wheel
+
+### **You Are Stuck**
+[![Repository](https://img.shields.io/badge/Repository-You_Are_Stuck-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/You-Are-Stuck)
+
+Plan/idea for agentic coding
+
+### Context & Knowledge Management
+
+### **Context Data Generation Bot**
+[![Repository](https://img.shields.io/badge/Repository-Context_Data_Generation_Bot-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Context-Data-Generation-Bot)
+
+Configuration for an AI assistant to generate personal contextual data
+
+### **Context Waterfall Architecture Notes**
+[![Repository](https://img.shields.io/badge/Repository-Context_Waterfall_Architecture_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
+
+A model for routing contextual data into vector storage for use with LLMs
+
+### **Personal AI Agent Development Template**
+[![Repository](https://img.shields.io/badge/Repository-Personal_AI_Agent_Development_Template-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Personal-AI-Agent-Development-Template)
+
+A model template/skeleton for creating personalised LLM agents
+
+### **Personal Context Store Ideation**
+[![Repository](https://img.shields.io/badge/Repository-Personal_Context_Store_Ideation-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
+
+Prompts generating ideas for developing personal contextual knowledge storage vaults
+
+### **Personalised AI Idea**
+[![Repository](https://img.shields.io/badge/Repository-Personalised_AI_Idea-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Personalised-AI-Idea)
+
+Some updated thoughts and sketches for creating personalised AI systems
+
+### **My LLM KM Idea**
+[![Repository](https://img.shields.io/badge/Repository-My_LLM_KM_Idea-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/My-LLM-KM-Idea)
+
+Documentation/thinking for a system for storing LLM derived information in a graph-backed knowledge base
+
+### MCP Projects (Additional)
+
+### **How To MCP**
+[![Repository](https://img.shields.io/badge/Repository-How_To_MCP-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/How-To-MCP)
+
+Template for a guidance reference for AI agents configuring MCP connections
+
+### **Local Secrets MCP**
+[![Repository](https://img.shields.io/badge/Repository-Local_Secrets_MCP-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-Secrets-MCP)
+
+Notes/idea for a local MCP handler for secrets in conjunction with a cloud API
+
+### **MCP Gateway Model 1225**
+[![Repository](https://img.shields.io/badge/Repository-MCP_Gateway_Model_1225-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/MCP-Gateway-Model-1225)
+
+Notes for an MCP gateway model for local and remote
+
+### **MCP Network Manager**
+[![Repository](https://img.shields.io/badge/Repository-MCP_Network_Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/MCP-Network-Manager)
+
+Docs/notes for deploying a LAN sysadmin solution using MCP
+
+### **On MCP And Consolidation**
+[![Repository](https://img.shields.io/badge/Repository-On_MCP_And_Consolidation-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/On-MCP-And-Consolidation)
+
+Quick snapshot/notes on MCP consolidation approaches
+
+### Documentation & Notes (Additional)
+
+### **Agentic AI Architecture Visualisation**
+[![Repository](https://img.shields.io/badge/Repository-Agentic_AI_Architecture_Visualisation-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation)
+
+Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems
+
+### **AI Native Backend Notes**
+[![Repository](https://img.shields.io/badge/Repository-AI_Native_Backend_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Native-Backend-Notes)
+
+Questions and answers with Claude on building AI native backends
+
+### **AI Stack Oct 2025**
+[![Repository](https://img.shields.io/badge/Repository-AI_Stack_Oct_2025-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Stack-Oct-2025)
+
+Model AI stack and budget (Oct 2025)
+
+### **AI Developers Career Planning Notes**
+[![Repository](https://img.shields.io/badge/Repository-AI_Developers_Career_Planning_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Developers-Career-Planning-Notes)
+
+Notes/ideas for the evolving face of programming jobs
+
+### **Ai Workspace Planning Notes**
+[![Repository](https://img.shields.io/badge/Repository-Ai_Workspace_Planning_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes)
+
+Spec/notes for an AI workspace (incl consolidating previous notes)
+
+### **AMD Radeon 7700 Notes**
+[![Repository](https://img.shields.io/badge/Repository-AMD_Radeon_7700_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AMD-Radeon-7700-Notes)
+
+Some notes about my GPU and compatibility
+
+### **ASR And STT AI Notebook**
+[![Repository](https://img.shields.io/badge/Repository-ASR_And_STT_AI_Notebook-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/ASR-And-STT-AI-Notebook)
+
+Prompts and outputs (and some notes) on STT + ASR + fine-tuning
+
+### **Claude Agent Workspace Model**
+[![Repository](https://img.shields.io/badge/Repository-Claude_Agent_Workspace_Model-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Agent-Workspace-Model)
+
+Outline for using various repositories as discrete workspaces for Claude Code
+
+### **Network In A Box Planning**
+[![Repository](https://img.shields.io/badge/Repository-Network_In_A_Box_Planning-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Network-In-A-Box-Planning)
+
+Claude generated tips for home network migration
+
+### **New Turn Claude Hook**
+[![Repository](https://img.shields.io/badge/Repository-New_Turn_Claude_Hook-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/New-Turn-Claude-Hook)
+
+WIP/Planning for a Claude or other agent CLI hook
+
+### **Shared AI Chats Research**
+[![Repository](https://img.shields.io/badge/Repository-Shared_AI_Chats_Research-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Shared-AI-Chats-Research)
+
+AI assisted search query (and notes)
+
+### **Voice Control Linux**
+[![Repository](https://img.shields.io/badge/Repository-Voice_Control_Linux-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Control-Linux)
+
+Claude-enhanced research for voice control platforms with Linux support
+
+### Prompt Engineering
+
+### **Circular Prompting**
+[![Repository](https://img.shields.io/badge/Repository-Circular_Prompting-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Circular-Prompting)
+
+Notes/docs for a prompting method for AI agents
+
+### Resource Lists (Additional)
+
+### **Audio Multimodal AI Resources**
+[![Repository](https://img.shields.io/badge/Repository-Audio_Multimodal_AI_Resources-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Audio-Multimodal-AI-Resources)
+
+A compilation of resources for multimodal AI models with audio understanding
+
+### **Awesome Linux IDEs**
+[![Repository](https://img.shields.io/badge/Repository-Awesome_Linux_IDEs-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
+
+IDEs and development tools that work on one or multiple Linux distros
+
+### **Awesome Obsidian AI Tools**
+[![Repository](https://img.shields.io/badge/Repository-Awesome_Obsidian_AI_Tools-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
+
+Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
+
+### **Awesome Red Alerts**
+[![Repository](https://img.shields.io/badge/Repository-Awesome_Red_Alerts-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Awesome-Red-Alerts)
+
+A curated list of red alert civilian notification projects for Israel
+
+### **Awesome Torah Tech**
+[![Repository](https://img.shields.io/badge/Repository-Awesome_Torah_Tech-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Awesome-Torah-Tech)
+
+Projects bringing technical sophistication to Jewish religious texts and interpretation
+
+### **Hebrew TTS Providers**
+[![Repository](https://img.shields.io/badge/Repository-Hebrew_TTS_Providers-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-TTS-Providers)
+
+Point in time snapshot of TTS providers with Modern Hebrew support
+
+### **Linux Friendly Voice Tech**
+[![Repository](https://img.shields.io/badge/Repository-Linux_Friendly_Voice_Tech-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+
+Voice technology tools and resources that work on Linux
+
+### **Whisper Fine-Tuning Resources**
+[![Repository](https://img.shields.io/badge/Repository-Whisiper_Fine_Tuning_Resources-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources)
+
+Some resources for those looking to fine-tune Whisper ASR
+
+### Ideas & Concepts
+
+### **A Better Jobs Platform Notes**
+[![Repository](https://img.shields.io/badge/Repository-A_Better_Jobs_Platform_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes)
+
+Notes/thoughts on what could be a really fertile AI use-case
+
+### **Just Some AI App Ideas**
+[![Repository](https://img.shields.io/badge/Repository-Just_Some_AI_App_Ideas-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Just-Some-AI-App-Ideas)
+
+Gathering repository for various ideas involving AI
+
+### **Pay For Ideas**
+[![Repository](https://img.shields.io/badge/Repository-Pay_For_Ideas-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Pay-For-Ideas)
+
+Notes for a more equitable system for feature requests
