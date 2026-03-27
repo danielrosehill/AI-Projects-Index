@@ -3,9 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-danielrosehill-blue?style=flat-square&logo=github)](https://github.com/danielrosehill)
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 [![AI Projects](https://img.shields.io/badge/AI-Projects%20Index-brightgreen?style=flat-square&logo=artificial-intelligence)](https://github.com/danielrosehill/AI-Projects-Index)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202025-orange?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-orange?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index)
 
-Updated: 31/Aug/2025:
+Updated: 27/Mar/2026:
 
 ## Related AI Project Indices
 
@@ -37,6 +37,24 @@ Demonstrations of AI concepts and applications.
 
 Model for simple handover management (via docs!) between AI agents
 
+### **AI EQ Assistant**
+[![Repository](https://img.shields.io/badge/Repository-AI_EQ_Assistant-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-EQ-Assistant)
+[![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
+
+Helper utility for finding good personal EQ settings
+
+### **AI Fix My Messy Whiteboard**
+[![Repository](https://img.shields.io/badge/Repository-AI_Fix_My_Messy_Whiteboard-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Fix-My-Messy-Whiteboard)
+[![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
+
+Whiteboard cleanup pipeline and util (local implementation)
+
+### **AI Personal EQ Creator**
+[![Repository](https://img.shields.io/badge/Repository-AI_Personal_EQ_Creator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Personal-EQ-Creator)
+[![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
+
+AI Studio starter - upload voice sample, get EQ preset
+
 ### **AI Shopping Advisor**
 [![Repository](https://img.shields.io/badge/Repository-AI_Shopping_Advisor-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Shopping-Advisor)
 [![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
@@ -55,6 +73,12 @@ Gemini app for creating personal podcasts from your AI prompts
 
 Upload pics, get ballpark dimensions
 
+### **AI Typer V2**
+[![Repository](https://img.shields.io/badge/Repository-AI_Typer_V2-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Typer-V2)
+[![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
+
+Voice dictation with multimodal AI cleanup — speak naturally, get polished text
+
 ### **AI Timesheet Creator**
 [![Repository](https://img.shields.io/badge/Repository-AI_Timesheet_Creator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Timesheet-Creator)
 [![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
@@ -72,6 +96,18 @@ App for extracting context data from voice recordings
 [![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
 
 AI tool to create a bespoke set of licensing terms for a project
+
+### **Gemini 3.1 Lite Audio Understanding Eval**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_31_Lite_Audio_Understanding_Eval-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-31-Lite-Audio-Understanding-Eval)
+[![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
+
+One voice recording for testing with TTS/cloning
+
+### **Gemini Audio EQ**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_Audio_EQ-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Audio-EQ)
+[![Demo](https://img.shields.io/badge/Type-Demo-blue?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#demos)
+
+Gemini-based audio EQ tool
 
 ### **Gemini Body Language Analyst**
 [![Repository](https://img.shields.io/badge/Repository-Gemini_Body_Language_Analyst-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Body-Language-Analyst)
@@ -428,11 +464,41 @@ Point in time collection of some agent development kits (ADKs) to explore
 
 Script to clone a few of the main ADKs (agent development kids) for testing/experimentation
 
+### **AI Dev Repo Template Oct 2025**
+[![Repository](https://img.shields.io/badge/Repository-AI_Dev_Repo_Template_Oct_2025-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Dev-Repo-Template-Oct-2025)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Updated AI assisted dev repo template (swap preferred CLI!)
+
 ### **AI Friendly Badge**
 [![Repository](https://img.shields.io/badge/Repository-AI_Friendly_Badge-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Friendly-Badge)
 [![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
 
 Website footer badge signalling AI "friendliness"
+
+### **AI Human Attribution Adder**
+[![Repository](https://img.shields.io/badge/Repository-AI_Human_Attribution_Adder-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Human-Attribution-Adder)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Slash command for AI agents to note who did what!
+
+### **AI Microtools**
+[![Repository](https://img.shields.io/badge/Repository-AI_Microtools-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Microtools)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+AI microtools collection
+
+### **AI Text Rewriting Toolbox**
+[![Repository](https://img.shields.io/badge/Repository-AI_Text_Rewriting_Toolbox-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+LLM text reformatting and rewriting toolbox comprised of many system prompts
+
+### **AI Transcription Notepad**
+[![Repository](https://img.shields.io/badge/Repository-AI_Transcription_Notepad-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Transcription-Notepad)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Voice note taking utility that uses cloud audio multimodal models for single pass transcription and text cleanup
 
 ### **ASR Training Data Chunker**
 [![Repository](https://img.shields.io/badge/Repository-ASR_Training_Data_Chunker-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/ASR-Training-Data-Chunker)
@@ -470,6 +536,18 @@ Configuration blocks for Continue.dev code-gen assistants
 
 N8N workflow for sharing prompts and outputs with friends and family with a reformatting node for smoother MD to email-safe HTML 
 
+### **Gemini ASR Transcriber**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_ASR_Transcriber-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-ASR-Transcriber)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Transcription notepad for Gemini ASR
+
+### **Gemini Audio Transcriber**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_Audio_Transcriber-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Audio-Transcriber)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+File upload based multimodal transcription tool using Gemini (via Open Router)
+
 ### **Gemini CLI Home Guidance**
 [![Repository](https://img.shields.io/badge/Repository-Gemini_CLI_Home_Guidance-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-CLI-Home-Guidance)
 [![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
@@ -482,11 +560,35 @@ Gemini.md ("rules") for the home folder / non repo constrained execution for Gem
 
 Voice recorder intended for easy voice note capture with AI (STT) postprocessing/cleanup
 
+### **Gemini Footnote Extractor**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_Footnote_Extractor-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Footnote-Extractor)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Extracts footnotes using Gemini
+
+### **Gemini Note Enhancer**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_Note_Enhancer-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Note-Enhancer)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Cleans up notes and diagrams using Gemini
+
 ### **Gemini Prompt Library ideator**
 [![Repository](https://img.shields.io/badge/Repository-Gemini_Prompt_Library_ideator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Prompt-Library-ideator)
 [![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
 
 Using Gemini structured outputs to ideate a prompt library for Open Web UI
+
+### **Gemini Transcription Notepad**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_Transcription_Notepad-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Transcription-Notepad)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Cleans and edits transcription outputs using Gemini
+
+### **Gemini Ent App**
+[![Repository](https://img.shields.io/badge/Repository-Gemini_Ent_App-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Ent-App)
+[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
+
+Gemini enterprise application (v2)
 
 ### **Gemini SSML Formatter**
 [![Repository](https://img.shields.io/badge/Repository-Gemini_SSML_Formatter-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-SSML-Formatter)
@@ -1009,6 +1111,71 @@ An abbreviated collection of STT transformation prompts
 
 Ideation agent that generates ideas for AI agents!
 
+### **AI Certifications**
+[![Repository](https://img.shields.io/badge/Repository-AI_Certifications-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Certifications)
+
+AI certifications reference
+
+### **AI Developers Career Planning Notes**
+[![Repository](https://img.shields.io/badge/Repository-AI_Developers_Career_Planning_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Developers-Career-Planning-Notes)
+
+Notes/ideas for the evolving face of programming jobs!
+
+### **AI Model Manager**
+[![Repository](https://img.shields.io/badge/Repository-AI_Model_Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Model-Manager)
+
+Planning/WIP repo for AI model manager
+
+### **AI Native Backend Notes**
+[![Repository](https://img.shields.io/badge/Repository-AI_Native_Backend_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Native-Backend-Notes)
+
+Questions and answers with Claude on building AI native backends
+
+### **AI Repo Manager**
+[![Repository](https://img.shields.io/badge/Repository-AI_Repo_Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Repo-Manager)
+
+AI app to enable smarter management of Github repositories
+
+### **AI Research Gathering**
+[![Repository](https://img.shields.io/badge/Repository-AI_Research_Gathering-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Research-Gathering)
+
+AI research gathering
+
+### **AI Research Orgs Research**
+[![Repository](https://img.shields.io/badge/Repository-AI_Research_Orgs_Research-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Research-Orgs-Research)
+
+Research on companies specialising in AI Research
+
+### **AI Resume**
+[![Repository](https://img.shields.io/badge/Repository-AI_Resume-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Resume)
+
+Notes/test for creating a version of a resume/CV specifically intended for AI agents
+
+### **AI Stack Oct 2025**
+[![Repository](https://img.shields.io/badge/Repository-AI_Stack_Oct_2025-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Stack-Oct-2025)
+
+Model AI stack and budget (Oct 2025) - for ref, FAQs, etc
+
+### **AI Sysadmin**
+[![Repository](https://img.shields.io/badge/Repository-AI_Sysadmin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Sysadmin)
+
+Desktop maintenance utility (WIP/planning notes)
+
+### **AI Tech Doc Stack**
+[![Repository](https://img.shields.io/badge/Repository-AI_Tech_Doc_Stack-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Tech-Doc-Stack)
+
+Notes (Dec 2025) for an AI technical documentation stack
+
+### **Ai Media Monitor**
+[![Repository](https://img.shields.io/badge/Repository-Ai_Media_Monitor-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Media-Monitor)
+
+Downloads JSON from media
+
+### **Ai Workspace Planning Notes**
+[![Repository](https://img.shields.io/badge/Repository-Ai_Workspace_Planning_Notes-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes)
+
+Spec/notes for an AI workspace planning
+
 ### **AI Output Storage Backend Data Models**
 [![Repository](https://img.shields.io/badge/Repository-AI_Output_Storage_Backend_Data_Models-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Output-Storage-Backend-Data-Models)
 
@@ -1038,10 +1205,25 @@ Notes for fellow cautious trusters of "the cloud"
 
 A series of search links for those wishing to drink from the firehose of open-source AI
 
+### **LLM Council**
+[![Repository](https://img.shields.io/badge/Repository-llm_council-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/llm-council)
+
+LLM Council works together to answer your hardest questions
+
 ### **LLM Detective**
 [![Repository](https://img.shields.io/badge/Repository-LLM_Detective-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Detective)
 
 Agent that tries to probe other models' capabilities with conversation
+
+### **LLM Evals Workspace**
+[![Repository](https://img.shields.io/badge/Repository-llm_evals_workspace-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/llm-evals-workspace)
+
+LLM evaluation workspace
+
+### **LLM Wars**
+[![Repository](https://img.shields.io/badge/Repository-LLM_Wars-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Wars)
+
+(Experiment) LLMs argue "who's better" in a podcast
 
 ### **Llama OS Doctor Idea**
 [![Repository](https://img.shields.io/badge/Repository-Llama_OS_Doctor_Idea-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Llama-OS-Doctor-Idea)
@@ -1063,6 +1245,11 @@ Attempting to map out the various input/output permutations for multimodal AI
 [![Repository](https://img.shields.io/badge/Repository-My_Weird_Prompts-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/My-Weird-Prompts)
 
 Blog/podcast made out of colorful (and mundane) AI prompts - and answers!
+
+### **Ollama 0326**
+[![Repository](https://img.shields.io/badge/Repository-Ollama_0326-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ollama-0326)
+
+Ollama project (March 2026)
 
 ### **OSINT Missile Intelligence Agent**
 [![Repository](https://img.shields.io/badge/Repository-OSINT_Missile_Intelligence_Agent-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)
@@ -1118,6 +1305,11 @@ A 100 page book manuscript generated from a single prompt using Sonnet 3.7
 
 A few ridiculous prompts for trying out Veo 3.1
 
+### **Voice Note Ragie Pipeline**
+[![Repository](https://img.shields.io/badge/Repository-Voice_Note_Ragie_Pipeline-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline)
+
+Test pipeline: voice context data to Ragie
+
 ### **Voice Note Dataset**
 [![Repository](https://img.shields.io/badge/Repository-Voice_Note_Dataset-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Note-Dataset)
 
@@ -1132,6 +1324,11 @@ Linux voice notepad (latest version) with text transformations in addition to ST
 [![Repository](https://img.shields.io/badge/Repository-Whisper_Notepad_For_Linux-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-Notepad-For-Linux)
 
 Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
+
+### **Weird AI Experiment Ideator**
+[![Repository](https://img.shields.io/badge/Repository-Weird_AI_Experiment_Ideator-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Weird-AI-Experiment-Ideator)
+
+Using AI to ideate "what would happen if...?"
 
 ### **Wireframe Cleaner Nano Banana**
 [![Repository](https://img.shields.io/badge/Repository-Wireframe_Cleaner_Nano_Banana-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Wireframe-Cleaner-Nano-Banana)
