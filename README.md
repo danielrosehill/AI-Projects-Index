@@ -3,9 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-danielrosehill-blue?style=flat-square&logo=github)](https://github.com/danielrosehill)
 [![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
 [![AI Projects](https://img.shields.io/badge/AI-Projects%20Index-brightgreen?style=flat-square&logo=artificial-intelligence)](https://github.com/danielrosehill/AI-Projects-Index)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-orange?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-orange?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index)
 
-Updated: 27/Mar/2026:
+Updated: 23/Apr/2026:
 
 ## Related AI Project Indices
 
@@ -774,6 +774,11 @@ Claude Code repos and other resources
 [![Repository](https://img.shields.io/badge/Repository-Home_Folder_Claude_MD-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Home-Folder-Claude-MD)
 
 CLAUDE.md for my home directory on an Ubuntu Linux desktop
+
+### **Israel Agent Skills Plugin**
+[![Repository](https://img.shields.io/badge/Repository-Israel_Agent_Skills_Plugin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Israel-Agent-Skills-Plugin)
+
+Claude Code plugin bundling Israel-specific agent skills — post office appointments, municipality reporting, healthcare and shelter lookups, Home Front Command guidelines
 
 ### **Non Code Claude Code**
 [![Repository](https://img.shields.io/badge/Repository-Non_Code_Claude_Code-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Non-Code-Claude-Code)
