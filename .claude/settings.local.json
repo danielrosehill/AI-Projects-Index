@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo list:*)",
+      "Read(//tmp/**)",
+      "Bash(gh repo view:*)",
+      "Bash(awk:*)",
+      "Bash(sed:*)",
+      "Read(///**)",
+      "Bash(cp:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

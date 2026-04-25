@@ -16,6 +16,7 @@ Updated: 23/Apr/2026:
 - [N8N Workflows Index](https://github.com/danielrosehill/N8N-Workflows-Index) - N8N automation workflows
 - [MCP Projects](https://github.com/danielrosehill/MCP-Projects) - Model Context Protocol projects
 - [My Prompt Libraries](https://github.com/danielrosehill/My-Prompt-Libraries) - Prompt engineering libraries and collections
+- [AI Safety Projects Index](https://github.com/danielrosehill/AI-Safety-Projects-Index) - AI safety, ethics, and responsible AI development repositories
 
 ## Project Types
 
