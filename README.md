@@ -9,6 +9,7 @@ Updated: 23/Apr/2026:
 
 ## Related AI Project Indices
 
+- [Hugging Face Releases Index](https://github.com/danielrosehill/Hugging-Face-Releases-Index) - All my Hugging Face models, datasets, Spaces and blog posts, indexed by theme
 - [Context Projects Index](https://github.com/danielrosehill/Context-Projects-Index) - Context management projects and tools
 - [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index) - Claude Code specific repositories
 - [AI Agents](https://github.com/danielrosehill/AI-Agents) - AI agent configurations and implementations
