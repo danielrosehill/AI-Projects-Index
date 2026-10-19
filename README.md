@@ -538,18 +538,6 @@ Configuration blocks for Continue.dev code-gen assistants
 
 N8N workflow for sharing prompts and outputs with friends and family with a reformatting node for smoother MD to email-safe HTML 
 
-### **Gemini ASR Transcriber**
-[![Repository](https://img.shields.io/badge/Repository-Gemini_ASR_Transcriber-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-ASR-Transcriber)
-[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
-
-Transcription notepad for Gemini ASR
-
-### **Gemini Audio Transcriber**
-[![Repository](https://img.shields.io/badge/Repository-Gemini_Audio_Transcriber-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Audio-Transcriber)
-[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
-
-File upload based multimodal transcription tool using Gemini (via Open Router)
-
 ### **Gemini CLI Home Guidance**
 [![Repository](https://img.shields.io/badge/Repository-Gemini_CLI_Home_Guidance-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-CLI-Home-Guidance)
 [![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
@@ -579,12 +567,6 @@ Cleans up notes and diagrams using Gemini
 [![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
 
 Using Gemini structured outputs to ideate a prompt library for Open Web UI
-
-### **Gemini Transcription Notepad**
-[![Repository](https://img.shields.io/badge/Repository-Gemini_Transcription_Notepad-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Transcription-Notepad)
-[![Framework/Tool](https://img.shields.io/badge/Type-Framework/Tool-purple?style=flat-square)](https://github.com/danielrosehill/AI-Projects-Index#frameworks-and-tools)
-
-Cleans and edits transcription outputs using Gemini
 
 ### **Gemini Ent App**
 [![Repository](https://img.shields.io/badge/Repository-Gemini_Ent_App-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Ent-App)
